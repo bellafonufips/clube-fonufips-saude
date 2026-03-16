@@ -41,7 +41,13 @@ export default function App() {
           <div className="brand">💚 Clube FONUFIPS Saúde</div>
           <div className="subtitle">Cuidado, acolhimento e saúde acessível para você e sua família.</div>
         </div>
-        <button className="primary">Entrar</button>
+        <a 
+href="https://wa.me/5598981319492" 
+target="_blank"
+className="primary"
+>
+Entrar
+</a>
       </header>
 
       <main className="container">
