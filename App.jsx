@@ -177,7 +177,7 @@ Quero ser associado
 <li>Prioridade no atendimento</li>
 <li>Benefícios exclusivos</li>
 </ul>
-<a href="https://wa.me/5598991609320" target="_blank" className="primary">
+<a href="https://wa.me/5598988472784" target="_blank" className="primary">
 Quero ser associado
 </a>
 </article>
