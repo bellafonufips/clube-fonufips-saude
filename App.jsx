@@ -104,6 +104,35 @@ Sou prestador
             <article className="card"><h3>Agendamento fácil</h3><p>Marque atendimentos de forma simples diretamente pelo aplicativo.</p></article>
           </div>
         </section>
+<section>
+<h2>Quanto você economiza sendo associado?</h2>
+
+<div className="grid4">
+
+<article className="card">
+<h3>Fonoaudiologia</h3>
+<p><strong>Consulta particular:</strong> R$180</p>
+<p><strong>Associado:</strong> R$95</p>
+<p><strong>Economia:</strong> R$85</p>
+</article>
+
+<article className="card">
+<h3>Fisioterapia</h3>
+<p><strong>Consulta particular:</strong> R$200</p>
+<p><strong>Associado:</strong> R$110</p>
+<p><strong>Economia:</strong> R$90</p>
+</article>
+
+<article className="card">
+<h3>Psicologia</h3>
+<p><strong>Consulta particular:</strong> R$220</p>
+<p><strong>Associado:</strong> R$120</p>
+<p><strong>Economia:</strong> R$100</p>
+</article>
+
+</div>
+</section>
+
 
         <section>
           <h2>Carteirinha digital</h2>
