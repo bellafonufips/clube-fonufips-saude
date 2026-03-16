@@ -42,7 +42,7 @@ export default function App() {
           <div className="subtitle">Cuidado, acolhimento e saúde acessível para você e sua família.</div>
         </div>
         <a 
-href="https://wa.me/5598981319492" 
+href="https://wa.me/5598991609320" 
 target="_blank"
 className="primary"
 >
@@ -60,8 +60,20 @@ Entrar
               pensados para trazer mais tranquilidade para você e sua família.
             </p>
             <div className="actions">
-              <button className="primary">Sou associado</button>
-              <button className="secondary">Sou prestador</button>
+              <a 
+href="https://wa.me/5598991609320?text=Olá!%20Tenho%20interesse%20em%20ser%20associado%20do%20Clube%20FONUFIPS"
+target="_blank"
+className="primary"
+>
+Sou associado
+</a>
+              <a 
+href="https://wa.me/5598991609320?text=Olá!%20Tenho%20interesse%20em%20fazer%20parte%20da%20rede%20FONUFIPS"
+target="_blank"
+className="secondary"
+>
+Sou prestador
+</a>
             </div>
             <div className="stats">
               <div className="stat"><strong>São Luís - MA</strong><span>Base principal</span></div>
