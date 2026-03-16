@@ -133,6 +133,57 @@ Sou prestador
 </div>
 </section>
 
+</section>
+
+
+/* AQUI ENTRA A SEÇÃO DOS PLANOS */
+<section>
+<h2>Planos do Clube</h2>
+<div className="grid3">
+
+<article className="card">
+<h3>Essencial</h3>
+<p><strong>R$19,90/mês</strong></p>
+<ul>
+<li>Carteirinha digital</li>
+<li>Clube de benefícios</li>
+<li>Rede de profissionais</li>
+<li>Suporte</li>
+</ul>
+<a href="https://wa.me/5598988472784" target="_blank" className="primary">
+Quero ser associado
+</a>
+</article>
+
+<article className="card">
+<h3>Saúde</h3>
+<p><strong>R$29,90/mês</strong></p>
+<ul>
+<li>Tudo do Essencial</li>
+<li>Teleorientação</li>
+<li>Descontos ampliados</li>
+<li>Acesso familiar</li>
+</ul>
+<a href="https://wa.me/5598991609320" target="_blank" className="primary">
+Quero ser associado
+</a>
+</article>
+
+<article className="card">
+<h3>Premium</h3>
+<p><strong>R$49,90/mês</strong></p>
+<ul>
+<li>Telemedicina</li>
+<li>Prioridade no atendimento</li>
+<li>Benefícios exclusivos</li>
+</ul>
+<a href="https://wa.me/5598991609320" target="_blank" className="primary">
+Quero ser associado
+</a>
+</article>
+
+</div>
+</section>
 
         <section>
           <h2>Carteirinha digital</h2>
