@@ -232,7 +232,13 @@ Quero ser associado
                 <ul>
                   {plan.items.map((item) => <li key={item}>{item}</li>)}
                 </ul>
-                <button className="primary full">Escolher plano</button>
+                <a
+href="https://wa.me/5598991609320?text=Olá!%20Tenho%20interesse%20no%20Clube%20FONUFIPS.%20Gostaria%20de%20mais%20informações."
+target="_blank"
+className="primary full"
+>
+Escolher plano
+</a>
               </article>
             ))}
           </div> 
