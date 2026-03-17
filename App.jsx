@@ -235,7 +235,7 @@ Quero ser associado
                 <button className="primary full">Escolher plano</button>
               </article>
             ))}
-          </div>
+          </div> 
         </section>
  </main>
  </div>
