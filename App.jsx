@@ -224,6 +224,11 @@ Quero ser associado
 
         <section>
           <h2>Planos disponíveis</h2>
+          <div className="estatisticas">
+  <p><strong>+80</strong> profissionais credenciados</p>
+  <p><strong>+300</strong> pacientes atendidos</p>
+  <p><strong>Atendimento domiciliar em São Luís e região</strong></p>
+</div>
           <div className="grid3">
             {plans.map((plan) => (
               <article className="card" key={plan.name}>
