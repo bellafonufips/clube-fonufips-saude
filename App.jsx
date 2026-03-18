@@ -224,6 +224,9 @@ Quero ser associado
 
         <section>
           <h2>Planos disponíveis</h2>
+          <div className="destaque-economia">
+💚 Economize até R$100 por consulta sendo associado
+</div>
           <div className="estatisticas">
   <p><strong>+80</strong> profissionais credenciados</p>
   <p><strong>+300</strong> pacientes atendidos</p>
