@@ -41,3 +41,11 @@ button{border:none;border-radius:18px;padding:14px 20px;font-size:16px;font-weig
   margin:0;
   font-weight:500;
 }
+.destaque-economia {
+  background: #e6f9f0;
+  color: #0f5132;
+  padding: 12px 16px;
+  border-radius: 10px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
