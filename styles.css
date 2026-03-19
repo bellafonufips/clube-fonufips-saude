@@ -53,3 +53,12 @@ button{border:none;border-radius:18px;padding:14px 20px;font-size:16px;font-weig
   border: 2px solid #10b981;
   transform: scale(1.03);
 }
+.selo {
+  background: #10b981;
+  color: white;
+  font-size: 10px;
+  padding: 4px 8px;
+  margin-left: 8px;
+  border-radius: 6px;
+  font-weight: bold;
+}
