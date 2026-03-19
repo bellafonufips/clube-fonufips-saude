@@ -275,7 +275,12 @@ Quero ser associado
           <div className="grid3">
             {plans.map((plan) => (
               <article className={`card ${plan.name === 'Saúde' ? 'destaque' : ''}`} key={plan.name}>
-                <h3>{plan.name}</h3>
+               <h3>
+  {plan.name}
+  {plan.name === 'Saúde' && (
+    <span className="selo">MAIS ESCOLHIDO</span>
+  )}
+</h3>
                 <div className="price">{plan.price}</div>
                 <ul>
                   {plan.items.map((item) => <li key={item}>{item}</li>)}
