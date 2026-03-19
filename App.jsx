@@ -184,7 +184,40 @@ Quero ser associado
 
 </div>
 </section>
+<section>
+  <h2>Leve o Clube FONUFIPS para sua empresa, escola ou prefeitura</h2>
+  <div className="grid2">
+    <article className="card">
+      <h3>Plano coletivo em saúde</h3>
+      <p>
+        Leve o Clube FONUFIPS para colaboradores, alunos e comunidades com uma
+        solução acessível, acolhedora e focada em prevenção, orientação e rede
+        de profissionais.
+      </p>
+      <ul>
+        <li>Condição especial por volume</li>
+        <li>Atendimento domiciliar e teleorientação</li>
+        <li>Rede multiprofissional</li>
+        <li>Modelo ideal para empresas e gestão pública</li>
+      </ul>
+    </article>
 
+    <article className="card">
+      <h3>Fale com nossa equipe comercial</h3>
+      <p>
+        Montamos proposta personalizada para empresas, escolas e prefeituras,
+        conforme quantidade de vidas e necessidade do projeto.
+      </p>
+      <a
+        href="https://wa.me/5598991609320?text=Olá!%20Tenho%20interesse%20em%20levar%20o%20Clube%20FONUFIPS%20para%20empresa,%20escola%20ou%20prefeitura."
+        target="_blank"
+        className="primary full"
+      >
+       Quero levar o FONUFIPS para minha empresa
+      </a>
+    </article>
+  </div>
+</section>
         <section>
           <h2>Carteirinha digital</h2>
           <div className="grid2">
@@ -228,6 +261,13 @@ Quero ser associado
 💚 Economize até R$100 por consulta sendo associado
 </div>
           <div className="estatisticas">
+            <div className="prova-social">
+  ⭐ Mais de 300 pacientes atendidos  
+  <br />
+  👩‍⚕️ +80 profissionais credenciados  
+  <br />
+  📍 Atendimento em São Luís e região
+</div>
   <p><strong>+80</strong> profissionais credenciados</p>
   <p><strong>+300</strong> pacientes atendidos</p>
   <p><strong>Atendimento domiciliar em São Luís e região</strong></p>
