@@ -42,7 +42,7 @@ export default function App() {
           <div className="subtitle">Cuidado, acolhimento e saúde acessível para você e sua família.</div>
         </div>
         <a 
-href="https://wa.me/5598991609320" 
+href="https://wa.me/5598996017637" 
 target="_blank"
 className="primary"
 >
@@ -61,14 +61,14 @@ Entrar
             </p>
             <div className="actions">
               <a 
-href="https://wa.me/5598991609320?text=Olá!%20Tenho%20interesse%20em%20ser%20associado%20do%20Clube%20FONUFIPS"
+href="https://wa.me/5598996017637?text=Olá!%20Tenho%20interesse%20em%20ser%20associado%20do%20Clube%20FONUFIPS"
 target="_blank"
 className="primary"
 >
 Sou associado
 </a>
               <a 
-href="https://wa.me/5598991609320?text=Olá!%20Tenho%20interesse%20em%20fazer%20parte%20da%20rede%20FONUFIPS"
+href="https://wa.me/5598996017637?text=Olá!%20Tenho%20interesse%20em%20fazer%20parte%20da%20rede%20FONUFIPS"
 target="_blank"
 className="secondary"
 >
@@ -164,7 +164,7 @@ Quero ser associado
 <li>Descontos ampliados</li>
 <li>Acesso familiar</li>
 </ul>
-<a href="https://wa.me/5598991609320" target="_blank" className="primary">
+<a href="https://wa.me/5598996017637" target="_blank" className="primary">
 Quero ser associado
 </a>
 </article>
@@ -177,7 +177,7 @@ Quero ser associado
 <li>Prioridade no atendimento</li>
 <li>Benefícios exclusivos</li>
 </ul>
-<a href="https://wa.me/5598988472784" target="_blank" className="primary">
+<a href="https://wa.me/5598996017637" target="_blank" className="primary">
 Quero ser associado
 </a>
 </article>
@@ -209,7 +209,7 @@ Quero ser associado
         conforme quantidade de vidas e necessidade do projeto.
       </p>
       <a
-        href="https://wa.me/5598991609320?text=Olá!%20Tenho%20interesse%20em%20levar%20o%20Clube%20FONUFIPS%20para%20empresa,%20escola%20ou%20prefeitura."
+        href="https://wa.me/5598996017637?text=Olá!%20Tenho%20interesse%20em%20levar%20o%20Clube%20FONUFIPS%20para%20empresa,%20escola%20ou%20prefeitura."
         target="_blank"
         className="primary full"
       >
@@ -286,7 +286,7 @@ Quero ser associado
                   {plan.items.map((item) => <li key={item}>{item}</li>)}
                 </ul>
                 <a
-href="https://wa.me/5598991609320?text=Olá!%20Tenho%20interesse%20no%20Clube%20FONUFIPS.%20Gostaria%20de%20mais%20informações."
+href="https://wa.me/5598996017637?text=Olá!%20Tenho%20interesse%20no%20Clube%20FONUFIPS.%20Gostaria%20de%20mais%20informações."
 target="_blank"
 className="primary full"
 >
@@ -300,7 +300,7 @@ Escolher plano
  </div>
 </div>
 <a
-href="https://wa.me/5598991609320"
+href="https://wa.me/5598996017637"
 target="_blank"
 style={{
 position: "fixed",
