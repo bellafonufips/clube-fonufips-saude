@@ -49,3 +49,7 @@ button{border:none;border-radius:18px;padding:14px 20px;font-size:16px;font-weig
   font-weight: 600;
   margin-bottom: 15px;
 }
+.destaque {
+  border: 2px solid #10b981;
+  transform: scale(1.03);
+}
