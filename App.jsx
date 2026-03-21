@@ -279,7 +279,7 @@ Quero ser associado
 </div>
           <div className="grid3">
             {plans.map((plan) => (
-            <article className={`card ${plan.name === 'Saúde' ? 'destaque' : ''}`} key={plan.name}>
+          <article className={`card ${plan.name === 'Saúde' ? 'destaque' : ''}`} key={plan.name}>
                <h3>
   {plan.name}
   {plan.name === 'Saúde' && (
@@ -291,7 +291,8 @@ Quero ser associado
                   {plan.items.map((item) => <li key={item}>{item}</li>)}
                 </ul>
                 <a
-href="https://wa.me/5598996017637?text=Olá!%20Tenho%20interesse%20no%20Clube%20FONUFIPS.%20Gostaria%20de%20mais%20informações."
+href={`https://wa.me/5598996017637?text=Olá! Tenho interesse no plano ${plan.name} do Clube FONUFIPS. Gostaria de mais informações.`}
+          
 target="_blank"
 className="primary full"
 >
