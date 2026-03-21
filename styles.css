@@ -71,3 +71,18 @@ button{border:none;border-radius:18px;padding:14px 20px;font-size:16px;font-weig
   border-radius: 6px;
   font-weight: bold;
 }
+.destaque {
+  border: 2px solid #25D366;
+  transform: scale(1.05);
+  box-shadow: 0 10px 30px rgba(37, 211, 102, 0.3);
+  position: relative;
+}
+
+.selo {
+  background: #25D366;
+  color: white;
+  font-size: 10px;
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-left: 8px;
+}
