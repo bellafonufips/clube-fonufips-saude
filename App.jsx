@@ -296,7 +296,7 @@ href={`https://wa.me/5598996017637?text=Olá! Tenho interesse no plano ${plan.na
 target="_blank"
 className="primary full"
 >
-QUERO ESSE PLANO
+QUERO ESSE PLANO 🔥
 </a>
               </article>
             ))}
