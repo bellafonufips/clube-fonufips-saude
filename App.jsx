@@ -308,7 +308,7 @@ QUERO ESSE PLANO 🔥
 <a
 href="https://wa.me/5598996017637"
 target="_blank"
-style={{
+className="whatsapp-fixo"
 position: "fixed",
 bottom: "20px",
 right: "20px",
