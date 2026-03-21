@@ -279,7 +279,7 @@ Quero ser associado
 </div>
           <div className="grid3">
             {plans.map((plan) => (
-              <article className={`card ${plan.name === 'Saúde' ? 'destaque' : ''}`} key={plan.name}>
+            <article className={`card ${plan.name === 'Saúde' ? 'destaque' : ''}`} key={plan.name}>
                <h3>
   {plan.name}
   {plan.name === 'Saúde' && (
