@@ -124,7 +124,12 @@ Sou prestador
 </article>
 
 <article className="card">
-<h3>Psicologia</h3>
+<h3>
+  {plan.name}
+  {plan.name === 'Saúde' && (
+    <span className="selo">MAIS ESCOLHIDO</span>
+  )}
+</h3>
 <p><strong>Consulta particular:</strong> R$220</p>
 <p><strong>Associado:</strong> R$120</p>
 <p><strong>Economia:</strong> R$100</p>
