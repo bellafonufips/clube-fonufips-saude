@@ -86,3 +86,14 @@ button{border:none;border-radius:18px;padding:14px 20px;font-size:16px;font-weig
   border-radius: 8px;
   margin-left: 8px;
 }
+.primary {
+  background: linear-gradient(135deg, #25D366, #1ebe5d);
+  color: white;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.primary:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(37, 211, 102, 0.4);
+}
