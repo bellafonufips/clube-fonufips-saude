@@ -306,22 +306,24 @@ QUERO ESSE PLANO 🔥
  </div>
 </div>
 <a
-href="https://wa.me/5598996017637"
-target="_blank"
-className="whatsapp-fixo"
-position: "fixed",
-bottom: "20px",
-right: "20px",
-backgroundColor: "#25D366",
-color: "white",
-padding: "15px 18px",
-borderRadius: "50px",
-textDecoration: "none",
-fontWeight: "bold",
-boxShadow: "0 4px 10px rgba(0,0,0,0.3)"
-}}
+  href="https://wa.me/5598996017637"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="whatsapp-fixo"
+  style={{
+    position: "fixed",
+    bottom: "20px",
+    right: "20px",
+    backgroundColor: "#25D366",
+    color: "white",
+    padding: "15px 18px",
+    borderRadius: "50px",
+    textDecoration: "none",
+    fontWeight: "bold",
+    boxShadow: "0 4px 10px rgba(0,0,0,0.3)"
+  }}
 >
-💬 WhatsApp
+  💬 WhatsApp
 </a>
 
 </div>
