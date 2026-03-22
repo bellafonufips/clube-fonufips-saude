@@ -302,11 +302,14 @@ QUERO ESSE PLANO 🔥
             ))}
           </div> 
         </section>
- </main>
- </div>
-</div>
+</section>
+</main>
+
+</section>
+</main>
+
 <a
-  href="https://wa.me/5598996017637"
+  href="https://wa.me/5598996017637?text=Olá!%20Tenho%20interesse%20no%20Clube%20FONUFIPS"
   target="_blank"
   rel="noopener noreferrer"
   className="whatsapp-fixo"
@@ -327,7 +330,5 @@ QUERO ESSE PLANO 🔥
 </a>
 
 </div>
-)
-}
-  )
+  );
 }
