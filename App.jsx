@@ -155,7 +155,7 @@ Sou prestador
 <li>Rede de profissionais</li>
 <li>Suporte</li>
 </ul>
-<a href="https://wa.me/5598988472784" target="_blank" className="primary">
+<a href="https://wa.me/5598996017637" target="_blank" className="primary">
 Quero ser associado
 </a>
 </article>
