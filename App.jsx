@@ -320,7 +320,7 @@ QUERO ESSE PLANO 🔥
     backgroundColor: "#25D366",
     color: "white",
     padding: "15px 18px",
-    borderRadius: "50px",
+    borderRadius: "50px", 
     textDecoration: "none",
     fontWeight: "bold",
     boxShadow: "0 4px 10px rgba(0,0,0,0.3)"
